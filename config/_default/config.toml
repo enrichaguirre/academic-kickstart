@@ -71,11 +71,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   author = "authors"
 
 
-[params]
-  email = "enrichaguirre@gmail.com"
-  address = ""
-  office_hours = ""
-  phone = "+54 9 11 30574956"
-  skype = ""
-  telegram = ""
-  twitter = "lesliemyint"
