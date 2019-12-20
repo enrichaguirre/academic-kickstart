@@ -7,6 +7,6 @@ categories: []
 tags: []
 ---
 ```{r}
-hist(rnorm(10,10,2))
+hist(rnorm(1000,10,2))
 
 ```
