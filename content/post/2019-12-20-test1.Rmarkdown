@@ -6,6 +6,8 @@ slug: test1
 categories: []
 tags: []
 ---
+
+Esto es una prueba
 ```{r}
 hist(rnorm(1000,10,2))
 
