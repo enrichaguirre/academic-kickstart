@@ -1,0 +1,12 @@
+---
+title: test1
+author: Lucas Enrich
+date: '2019-12-20'
+slug: test1
+categories: []
+tags: []
+---
+```{r}
+hist(rnorm(10,10,2))
+
+```
