@@ -1,8 +1,8 @@
 ---
-title: test1
+title: test2
 author: Lucas Enrich
 date: '2019-12-20'
-slug: test1
+slug: test2
 categories: []
 tags: []
 ---
